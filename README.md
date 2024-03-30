@@ -12,7 +12,7 @@ Além disso, é necessário ter o navegador Chrome e o [ChromeDriver](https://ch
 
 ## Como usar
 
-1. Clone este repositório ou baixe o arquivo [script.py](bot.py).
+1. Clone este repositório ou baixe o arquivo [bot.py](bot.py).
 2. Instale as dependências necessárias executando o seguinte comando:
 3. Execute o script com o seguinte comando:
 4. Uma janela Tkinter será exibida perguntando se deseja iniciar o preenchimento de dados. Clique em "Sim" para começar ou "Cancelar" para encerrar o programa.
