@@ -7,6 +7,8 @@ Este script Python automatiza o preenchimento de um formulário web com dados de
 Antes de executar este script, certifique-se de ter instalado os seguintes pacotes Python:
 - [Selenium](https://pypi.org/project/selenium/)
 - [Pandas](https://pypi.org/project/pandas/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html): Utilizada para criar a interface gráfica.
+
 
 Além disso, é necessário ter o navegador Chrome e o [ChromeDriver](https://chromedriver.chromium.org/downloads) instalados e adicionados ao PATH do sistema.
 
