@@ -15,8 +15,8 @@ Além disso, é necessário ter o navegador Chrome e o [ChromeDriver](https://ch
 ## Como usar
 
 1. Clone este repositório ou baixe o arquivo [bot.py](bot.py).
-2. Instale as dependências necessárias executando o seguinte comando:
-3. Execute o script com o seguinte comando:
+2. Instale as dependências necessárias executando o seguinte comando: pip install selenium, pandas, tkinter
+3. Execute o script com o seguinte comando: python boy.py
 4. Uma janela Tkinter será exibida perguntando se deseja iniciar o preenchimento de dados. Clique em "Sim" para começar ou "Cancelar" para encerrar o programa.
 5. O script abrirá um navegador Chrome, acessará o formulário web em [https://cadastroprodutos-devaprender.netlify.app/](https://cadastroprodutos-devaprender.netlify.app/) e preencherá o formulário com os dados da planilha Excel especificada. Os dados serão preenchidos linha por linha, e a cada linha preenchida, um alerta será exibido e aceito automaticamente.
 6. Após o preenchimento de todos os dados da planilha, o navegador será fechado e o programa será encerrado.
